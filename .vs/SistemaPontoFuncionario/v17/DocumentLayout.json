@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Coding\\C#\\001\\SistemaPontoFuncionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84594DA-155E-4E45-AE57-B6E354E96BF2}|SistemaPontoFuncionario\\SistemaPontoFuncionario.csproj|c:\\users\\admin\\documents\\coding\\c#\\001\\sistemapontofuncionario\\sistemapontofuncionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A84594DA-155E-4E45-AE57-B6E354E96BF2}|SistemaPontoFuncionario\\SistemaPontoFuncionario.csproj|solutionrelative:sistemapontofuncionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84594DA-155E-4E45-AE57-B6E354E96BF2}|SistemaPontoFuncionario\\SistemaPontoFuncionario.csproj|c:\\users\\admin\\documents\\coding\\c#\\001\\sistemapontofuncionario\\sistemapontofuncionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84594DA-155E-4E45-AE57-B6E354E96BF2}|SistemaPontoFuncionario\\SistemaPontoFuncionario.csproj|solutionrelative:sistemapontofuncionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\C#\\001\\SistemaPontoFuncionario\\SistemaPontoFuncionario\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaPontoFuncionario\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\C#\\001\\SistemaPontoFuncionario\\SistemaPontoFuncionario\\Form1.cs",
+              "RelativeToolTip": "SistemaPontoFuncionario\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:38:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\C#\\001\\SistemaPontoFuncionario\\SistemaPontoFuncionario\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaPontoFuncionario\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\C#\\001\\SistemaPontoFuncionario\\SistemaPontoFuncionario\\Form1.cs [Projeto]",
+              "RelativeToolTip": "SistemaPontoFuncionario\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:33:53.432Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
